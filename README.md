@@ -11,6 +11,8 @@ This repository explains the interaction of WebElement in Selenium and used of F
 ## Introduction
 
 This repository explains the interaction of WebElement in Selenium and used of Faker library to generate fake data.
+
+
 What is Faker library?
 
 The Faker library is a Python package that generates realistic fake data for various purposes, such as generating random names, addresses, phone numbers, etc. It is important for automation testers as it allows them to easily create test data with realistic values, helping to simulate different scenarios and test the application's behavior under various conditions without using real personal data. This can improve test coverage and ensure that the automation tests are comprehensive and effective.
